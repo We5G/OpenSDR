@@ -38,6 +38,6 @@ _注：其它载卡可以在上述工程基础上进行修改。_
 
 以下是下载链接： 
 
-[RFMC射频子卡资料链接](http://pan.baidu.com/s/1n8HLv2jq2PmrsBfLLKZPtg)  
+[RFMC射频子卡资料链接](https://pan.baidu.com/s/1rlo1SwbROMoZuEyIDUFdJg)  
 
-提取码：w5gs
+提取码：We5g
